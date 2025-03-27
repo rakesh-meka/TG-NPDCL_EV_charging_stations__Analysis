@@ -39,7 +39,7 @@ The key columns include:
 ```
 📁 TG-NPDCL-EV-Analysis/
 ├── 📄 Project_NPDCL.ipynb  # Jupyter Notebook with analysis
-├── 📂 data/                # Raw and processed datasets
+├── 📂 Rawdata/ & Cleaned_data/  # Raw and cleaned datasets
 ├── 📄 final_sorted_output.csv  # Merged and cleaned dataset
 ├── 📄 README.md            # Project documentation
 └── 📂 images/              # Graphs and visualizations
