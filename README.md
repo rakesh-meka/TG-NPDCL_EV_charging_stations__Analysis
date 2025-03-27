@@ -35,9 +35,11 @@ The key columns include:
   ![EV_Data](https://github.com/rakesh-meka/TG-NPDCL_EV_charging_stations__Analysis/blob/main/Images/Billed%20vs.%20Unbilled%20Services%20Over%20Time%20(Jan%202024%20-%20Dec%202024).png)
   
 - 📈 **Seasonal Consumption Trends**
+
   ![EV_Data](https://github.com/rakesh-meka/TG-NPDCL_EV_charging_stations__Analysis/blob/main/Images/Electricity%20Consumption%20by%20Season.png)
 
 - **Load vs. Electricity Consumption**
+
    ![EV_Data](https://github.com/rakesh-meka/TG-NPDCL_EV_charging_stations__Analysis/blob/main/Images/Load%20vs.%20Electricity%20Consumption%20(Jan%202024%20-%20Dec%202024).png)
   
 ## 🛠️ Technologies Used
