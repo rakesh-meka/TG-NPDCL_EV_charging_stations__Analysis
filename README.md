@@ -4,13 +4,10 @@
 This project analyzes **EV charging station consumption data** from the **Telangana Northern Power Distribution Company Limited (TG-NPDCL)** for the year **2024**. The data, obtained from public monthly reports, was processed using Python to extract insights on **electricity consumption, high and low-demand regions, and seasonal trends**.
 
 ## 📂 Dataset Information
-# TG-NPDCL EV Charging Stations Consumption Data
-
-This dataset has been downloaded from the [Telangana Open Data Portal](https://data.telangana.gov.in/dataset/tg-npdcl-ev-charging-stations-consumption-data). It contains information on electricity consumption at electric vehicle (EV) charging stations under **TG-NPDCL (Telangana Northern Power Distribution Company Limited)**.
-
 ## 🔗 Source
 **Website**: [Telangana Open Data Portal](https://data.telangana.gov.in/)  
 **Dataset Link**: [TG-NPDCL EV Charging Consumption Data](https://data.telangana.gov.in/dataset/tg-npdcl-ev-charging-stations-consumption-data)
+This dataset has been downloaded from the [Telangana Open Data Portal](https://data.telangana.gov.in/dataset/tg-npdcl-ev-charging-stations-consumption-data). It contains information on electricity consumption at electric vehicle (EV) charging stations under **TG-NPDCL (Telangana Northern Power Distribution Company Limited)**.
 
 The data consists of monthly, I have **merged monthly reports** from January 2024 to December 2024 using python.
 The key columns include:
