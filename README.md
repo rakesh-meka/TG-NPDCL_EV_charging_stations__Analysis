@@ -23,7 +23,7 @@ The key columns include:
 
 ## 🚀 Analysis
 - 📊 **Monthly Electricity Consumption Trends**
-  ![EV_Data](Images/Monthly Electricity Consumption Trend (Jan 2024 - Dec 2024).png)
+  ![EV_Data](https://github.com/rakesh-meka/TG-NPDCL_EV_charging_stations__Analysis/blob/main/Images/Monthly%20Electricity%20Consumption%20Trend%20(Jan%202024%20-%20Dec%202024).png)
 - 
 - 🔝 **Top 10 Circles with Highest EV Consumption**
 - 🔻 **Bottom 5 Circles with Lowest EV Consumption**
