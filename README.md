@@ -24,13 +24,22 @@ The key columns include:
 ## 🚀 Analysis
 - 📊 **Monthly Electricity Consumption Trends**
   ![EV_Data](https://github.com/rakesh-meka/TG-NPDCL_EV_charging_stations__Analysis/blob/main/Images/Monthly%20Electricity%20Consumption%20Trend%20(Jan%202024%20-%20Dec%202024).png)
-- 
+  
 - 🔝 **Top 10 Circles with Highest EV Consumption**
-- 🔻 **Bottom 5 Circles with Lowest EV Consumption**
+   ![EV_Data](https://github.com/rakesh-meka/TG-NPDCL_EV_charging_stations__Analysis/blob/main/Images/Top%2010%20Circles%20by%20Electricity%20Consumption%20in%20TG%20(Jan%202024%20-%20Dec%202024).png)
+  
+- 🔻 **Bottom 3 Circles with Lowest EV Consumption**
+   ![EV_Data](https://github.com/rakesh-meka/TG-NPDCL_EV_charging_stations__Analysis/blob/main/Images/Bottom%203%20Circles%20in%20EV%20Charging%20Consumption%20(Jan-Dec%202024).png)
+  
 - 📉 **Billed vs. Unbilled Services Analysis**
+    ![EV_Data](https://github.com/rakesh-meka/TG-NPDCL_EV_charging_stations__Analysis/blob/main/Images/Billed%20vs.%20Unbilled%20Services%20Over%20Time%20(Jan%202024%20-%20Dec%202024).png)
+  
 - 📈 **Seasonal Consumption Trends**
+    ![EV_Data](https://github.com/rakesh-meka/TG-NPDCL_EV_charging_stations__Analysis/blob/main/Images/Electricity%20Consumption%20by%20Season.png)
 
-
+- **Load vs. Electricity Consumption**
+     ![EV_Data](https://github.com/rakesh-meka/TG-NPDCL_EV_charging_stations__Analysis/blob/main/Images/Load%20vs.%20Electricity%20Consumption%20(Jan%202024%20-%20Dec%202024).png)
+  
 ## 🛠️ Technologies Used
 - **Python** (Pandas, Matplotlib, Seaborn)
 - **Jupyter Notebook**
