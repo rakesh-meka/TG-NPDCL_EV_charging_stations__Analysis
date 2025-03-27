@@ -15,7 +15,7 @@ This dataset has been downloaded from the [Telangana Open Data Portal](https://d
 The data consists of monthly, I have **merged monthly reports** from January 2024 to December 2024 using python.
 The key columns include:
 - **Circle, Division, Subdivision, Section, Area** – Location-based attributes.
-- **Catdesc, Catcode** – Consumer category details.
+- **Catdesc, Catcode** – : Category Description (Type of Connection) & Category Code (Code for connection Type)
 - **Totservices** – Total number of EV charging services.
 - **Billdservices** – Number of billed charging services.
 - **Units** – Electricity consumption (kWh).
@@ -35,12 +35,10 @@ The key columns include:
   ![EV_Data](https://github.com/rakesh-meka/TG-NPDCL_EV_charging_stations__Analysis/blob/main/Images/Billed%20vs.%20Unbilled%20Services%20Over%20Time%20(Jan%202024%20-%20Dec%202024).png)
   
 - 📈 **Seasonal Consumption Trends**
-
   ![EV_Data](https://github.com/rakesh-meka/TG-NPDCL_EV_charging_stations__Analysis/blob/main/Images/Electricity%20Consumption%20by%20Season.png)
 
 - **Load vs. Electricity Consumption**
-   
-     ![EV_Data](https://github.com/rakesh-meka/TG-NPDCL_EV_charging_stations__Analysis/blob/main/Images/Load%20vs.%20Electricity%20Consumption%20(Jan%202024%20-%20Dec%202024).png)
+   ![EV_Data](https://github.com/rakesh-meka/TG-NPDCL_EV_charging_stations__Analysis/blob/main/Images/Load%20vs.%20Electricity%20Consumption%20(Jan%202024%20-%20Dec%202024).png)
   
 ## 🛠️ Technologies Used
 - **Python** (Pandas, Matplotlib, Seaborn)
