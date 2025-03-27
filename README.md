@@ -21,8 +21,11 @@ The key columns include:
 - **Units** – Electricity consumption (kWh).
 - **Load** – Load capacity (kW).
 
-## 🚀 Features & Analysis
+## 🚀 Analysis
 - 📊 **Monthly Electricity Consumption Trends**
+
+-  Images/Monthly Electricity Consumption Trend (Jan 2024 - Dec 2024).png
+- 
 - 🔝 **Top 10 Circles with Highest EV Consumption**
 - 🔻 **Bottom 5 Circles with Lowest EV Consumption**
 - 📉 **Billed vs. Unbilled Services Analysis**
